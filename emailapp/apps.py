@@ -1,6 +1,6 @@
 from django.apps import AppConfig
 
 
-class PsRelatedConfig(AppConfig):
+class EmailappConfig(AppConfig):
     default_auto_field = 'django.db.models.BigAutoField'
-    name = 'ps_related'
+    name = 'emailapp'
